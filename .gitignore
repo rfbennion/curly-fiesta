@@ -2,3 +2,16 @@
 .Rhistory
 .RData
 .Ruserdata
+.DS_Store
+raw_data/*
+
+#datasets too big for GitHub#
+#idiocy prevention and raw data#
+*.docx
+*.xlsx
+*.doc
+*.pptx
+*.ppt
+*.rtf
+*.xxls
+
